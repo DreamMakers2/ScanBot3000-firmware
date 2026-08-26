@@ -7,6 +7,8 @@ Distributed motion-control firmware for the ScanBot3000 Teensy 4.1 supervisor an
 ![Teensy](https://img.shields.io/badge/supervisor-Teensy%204.1-6b7280)
 ![ESP32-S3](https://img.shields.io/badge/axis-ESP32--S3-111827)
 
+![ScanBot3000 firmware](docs/assets/scanbot3000-firmware.png)
+
 This repository contains the embedded firmware that drives the physical ScanBot3000 motion system. A Teensy 4.1 acts as the motion supervisor and console host; ESP32-S3 controllers drive individual axes, sensors, displays, and local indicators.
 
 > **Project home:** [Scanbot3000](https://github.com/DreamMakers2/Scanbot3000)  
